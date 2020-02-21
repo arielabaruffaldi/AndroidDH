@@ -10,10 +10,10 @@ public class Ejercicio3 {
     ArrayList<Integer> soloLosParesArray(ArrayList<Integer> unArrayList) {
 
         //Retornar un ArrayList con todos los elementos pares de un array.
-        ArrayList<Integer> resultado = [];
+        ArrayList <Integer> resultado = new ArrayList<>();
         for (int i = 0; i < unArrayList.size(); i++) {
             if (unArrayList.get(i) % 2 == 0) {
-                resultado.add(unArrayList.get(i));
+               resultado.add(unArrayList.get(i));  
             }
         }
 
