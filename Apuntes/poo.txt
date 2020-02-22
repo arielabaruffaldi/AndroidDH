@@ -1,0 +1,8 @@
+
+PILARES DE LA POO
+    ABSTRACCION 
+        CLASES (EJEMPLO: SILLA) -> PLANTILLA DEL OBJETO
+            ATRIBUTOS/CARACTERÍSTICAS -> VARIABLES (EJEMPLO: RUEDAS, PATAS, ETC)
+            RESPONSABILIDADES/MÉTODOS (depende del contexto) -> FUNCIONES (EJEMPLO: AGUANTAR PESO) -> son las que definen qué es un objeto y qué no. Y no las características
+            OBJETO -> MATERIALIZACIÓN(instancia) DE UNA CLASE (EJEMPLO: SILLA DE MADERA, SILLA DE PLASTICO, BANQUETA)
+
